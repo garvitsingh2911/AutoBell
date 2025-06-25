@@ -34,9 +34,3 @@ See full code in the [code directory](code/)
 - Worked with Arduino and sensors
 - Understood real-world prototyping and debugging
 - Emphasized user-friendly design and automation
-
-## 🙌 Team Members
-- Garvit Singh
-- Nehal Ahmad
-- Lakshya Sharma
-- Jayati Rahul

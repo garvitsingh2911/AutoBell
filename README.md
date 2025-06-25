@@ -18,14 +18,14 @@ A mini-project built using Arduino UNO, ultrasonic sensors, and buzzer to create
 The ultrasonic sensor measures distance. When someone comes within a certain range, the Arduino triggers a buzzer and LED.
 
 ## 📸 Images
-![Circuit Diagram](images/)
-![Final Setup](images/)
+![Circuit Diagram](images/CurcuitDiagram.png)
+![Project Poster](images/ProjectBanner.jpeg)
 
 ## 📹 Demo Video
-[Click to watch the demo](videos/) *(Upload to YouTube and link here if preferred)*
+[Click to watch the demo](videos/Demo1.mp4) *(Upload to YouTube and link here if preferred)*
 
 ## 📄 Project Report
-- [Download Synopsis (PDF)](synopsis/)
+- [Download Synopsis (PDF)](synopsis/synopsisAutoBell.docx)
 
 ## 📁 Code
 See full code in the [code directory](code/)

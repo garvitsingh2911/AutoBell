@@ -18,17 +18,17 @@ A mini-project built using Arduino UNO, ultrasonic sensors, and buzzer to create
 The ultrasonic sensor measures distance. When someone comes within a certain range, the Arduino triggers a buzzer and LED.
 
 ## 📸 Images
-![Circuit Diagram](images/circuit-diagram.jpg)
-![Final Setup](images/final-setup.jpg)
+![Circuit Diagram](images/)
+![Final Setup](images/)
 
 ## 📹 Demo Video
-[Click to watch the demo](videos/demo.mp4) *(Upload to YouTube and link here if preferred)*
+[Click to watch the demo](videos/) *(Upload to YouTube and link here if preferred)*
 
 ## 📄 Project Report
-- [Download Synopsis (PDF)](synopsis/garv_project_synopsis.pdf)
+- [Download Synopsis (PDF)](synopsis/)
 
 ## 📁 Code
-See full code in the [code directory](code/doorbell.ino)
+See full code in the [code directory](code/)
 
 ## 🧠 Learnings
 - Worked with Arduino and sensors
